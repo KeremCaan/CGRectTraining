@@ -83,6 +83,8 @@
 			dependencies = (
 			);
 			name = CGRectNeonAcademy;
+			packageProductDependencies = (
+			);
 			productName = CGRectNeonAcademy;
 			productReference = 52B61AC82A73EFDA0079DDBF /* CGRectNeonAcademy.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +113,8 @@
 				Base,
 			);
 			mainGroup = 52B61ABF2A73EFDA0079DDBF;
+			packageReferences = (
+			);
 			productRefGroup = 52B61AC92A73EFDA0079DDBF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
